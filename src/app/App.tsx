@@ -223,7 +223,7 @@ export default function App() {
             Tailwind CSS
           </p>
           <p className="mt-1 bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent font-medium">
-            Built by Jahid
+            Built by Jahid (Co‑founder)
           </p>
         </div>
       </footer>
